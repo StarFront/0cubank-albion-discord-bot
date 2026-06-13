@@ -1,4 +1,4 @@
-# 0cuBank Bot 🏦
+# 0cuBank Bot 
 
 Bot de Discord para gestión de gremio en Albion Online. Incluye sistema de splits de botín, killboard automático, verificación de miembros y más.
 
