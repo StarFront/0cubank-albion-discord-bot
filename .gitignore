@@ -1,0 +1,22 @@
+# Secretos
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+photothumb.db
+Thumbs.db
+.DS_Store
